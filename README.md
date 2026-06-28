@@ -1,12 +1,23 @@
-# SREDevOps.org Ghost Theme
+# SREDevOps.org Ghost Theme (v2 WiP)
 
-> **Ghost v6 Theme** for [SREDevOps.org](https://www.sredevops.org) — Multi-locale, Tailwind CSS v3, responsive, dark-mode first, with SVG icons, sidebar navigation, and tag-based language filtering.
+> **Ghost v6 Theme** for [SREDevOps.org](https://www.sredevops.org) — Multi-locale, Tailwind CSS v3, responsive, dark-mode first and tag-based language filtering.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Ghost Compatibility](https://img.shields.io/badge/Ghost-%3E%3D6.0.0-lightgrey)](https://ghost.org)
 [![Node Engine](https://img.shields.io/badge/Node-%3E%3D22-green)](https://nodejs.org)
 
 ---
+# v2 To Do:
+
+- Improvements into Homepage content blocks/sections []
+- Update and migrate templates to the new design:
+  - `page.hbs` []
+  - `page-recommendations.hbs` []
+  - `page-tags.hbs` []
+  - `tag.hbs` []
+  - `custom-notocbot.hbs` []
+  - `author.hbs` []
+
 
 ## 🌐 Multi-Locale Architecture
 
@@ -422,7 +433,7 @@ We welcome contributions aligned with our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 - **Author**: Nicolás Georger ([@ngeorger](https://github.com/ngeorger)) — SRE/DevOps practitioner, Santiago, Chile
 - **Inspiration**:
-  - [Priority Vision's "Aspect" Theme](https://priority.vision)
+  - [RuntimeWire Website](https://runtimewire.com/)
   - [@TryGhost "Source" Theme](https://github.com/TryGhost/Source)
 - **Community**: Ghost Forum contributors for multi-locale pattern validation
 - **Tooling**: Tailwind CSS, Gulp, PostCSS, GScan
@@ -431,4 +442,4 @@ We welcome contributions aligned with our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 > 🌎 **LatAm Note**: This theme was built with LatAm infrastructure constraints in mind — minimal external dependencies, optimized asset delivery, and community-driven localization patterns. For questions about deploying in Chile/Argentina/Brazil contexts, open an issue or reach out via [SREDevOps.org](https://www.sredevops.org).
 
-*Last updated: May 2026 | Ghost v6 compatible*
+*Last updated: June 2026 | Ghost v6 compatible*
