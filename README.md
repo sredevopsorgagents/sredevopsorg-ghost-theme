@@ -17,6 +17,7 @@
   - `tag.hbs` []
   - `custom-notocbot.hbs` []
   - `author.hbs` []
+- Cleanup unused code []
 
 
 ## 🌐 Multi-Locale Architecture
